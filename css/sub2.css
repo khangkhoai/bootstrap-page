@@ -105,3 +105,6 @@ p.card-text.item-text.max-ln-3 {
     left: 5px;
     color: white;
 }
+.item-viewed{
+    height: 45px;
+}
